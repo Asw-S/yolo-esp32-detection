@@ -1,8 +1,8 @@
-fastapi==0.95.0
-uvicorn==0.21.1
-python-multipart==0.0.6
-Pillow==9.5.0
-torch==2.6.0
-torchvision==0.17.0
-numpy==1.24.2
-ultralytics==8.0.20
+fastapi
+uvicorn
+python-multipart
+Pillow
+torch
+torchvision
+numpy
+ultralytics
